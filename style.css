@@ -23,3 +23,22 @@ li {
 a {
   color: #fff;
 }
+
+.main-content {
+  padding-top: 5em;
+}
+
+section {
+  padding: 2em 1em;
+  text-align: center;
+}
+
+#home {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+#home p {
+  font-size: 1.2em;
+  color: #666;
+}
